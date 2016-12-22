@@ -2,7 +2,7 @@
 
 ##What is this ?
 
-This tutorials covers the scenarios /  features supported by OData V4. The initial version is inspired  by [Basic tutorial](http://www.odata.org/getting-started/basic-tutorial/) and [Understanding OData in 6 steps](http://www.odata.org).
+This tutorial covers the scenarios /  features supported by OData V4. The initial version is inspired  by [Basic tutorial](http://www.odata.org/getting-started/basic-tutorial/) and [Understanding OData in 6 steps](http://www.odata.org).
 
 ##Why we need this ?
 
@@ -40,4 +40,4 @@ We use the *categories* in the previous template to help generate web site to be
 If you would like to create a new request with a new category, please DO make it stand out in your pull request.
 
 ##Contribution
-OData always welcome all kinds of contribution. For this tutorial guideline specifically, we try to cover as many secanrios as possible but there are always chances that something missing or not perfect. You can create a pull request with new .md files following the template above or modifying the content of an existing request. 
+OData always welcome all kinds of contribution. For this tutorial guideline specifically, we try to cover as many scenarios as possible but there are always chances that something missing or not perfect. You can create a pull request with new .md files following the template above or modifying the content of an existing request. 
